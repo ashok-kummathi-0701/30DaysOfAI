@@ -118,7 +118,7 @@ if not day_options:
     
     ### 🛠️ Prerequisites
     
-    - **Snowflake Account** with Cortex AI enabled
+    - **[Snowflake Account](https://signup.snowflake.com/?trial=student&cloud=aws&region=us-west-2&utm_source=streamlit-campaign&utm_campaign=30daysofai)** with Cortex AI enabled
     - **Python 3.10+**
     - Basic Python knowledge
     
